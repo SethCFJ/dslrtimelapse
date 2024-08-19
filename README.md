@@ -51,6 +51,9 @@ Scroll down to the very bottom of the file and input:
 
 This cronjob is set to execute at 2:00pm everyday. Refer to the image below to understand how cronjobs can be timed:
 
+![begnners-guide-to-cron-jobs](https://github.com/user-attachments/assets/8ff4843c-ab76-4401-a88e-631d11d5f951)
+
+
 The cronjob will initialise automatically so there is no need to run a command.
 
 ### Features
